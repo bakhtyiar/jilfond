@@ -10,7 +10,7 @@ import ProfileSection from "@/components/blocks/ProfileSection.vue";
 import LayoutSearchingSideBar from "@/components/layouts/LayoutSearchingSideBar.vue";
 
 export default defineComponent({
-  name: "HomeView",
+  name: "UserView",
   components: { ProfileSection, LayoutSearchingSideBar },
 });
 </script>
