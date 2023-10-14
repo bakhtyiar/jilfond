@@ -1,4 +1,5 @@
-# jf_test
+# Jilfond test task
+![preview image](./github_preview.jpg)
 
 ## Project setup
 ```
